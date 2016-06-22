@@ -1,1 +1,1 @@
-# nodejs-osx
+# nstalling node.js on OSX
