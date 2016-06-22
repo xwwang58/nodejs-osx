@@ -1,3 +1,3 @@
 # Installing node.js on OSX
 
-[Download]( http://nodejs.org/)
+[Download for OSX (X64)]( http://nodejs.org/)
